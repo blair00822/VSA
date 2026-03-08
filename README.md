@@ -1,4 +1,4 @@
-# VSA
+# Learning Forgery-Aware Lip Representations Without Forgery Priors (CVPR 2026)
 Official PyTorch implementation of paper "Learning Forgery-Aware Lip Representations Without Forgery Priors".
 
 ## 💡**Abstract**
