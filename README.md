@@ -2,6 +2,8 @@
 Official PyTorch implementation of paper "Learning Forgery-Aware Lip Representations Without Forgery Priors".
 
 ## 📝 **Abstract**
+We propose a novel VSA detector trained exclusively on authentic data, learning forgery-aware representations through three key components. Our method maintains identity verification performance and demonstrates strong generalization to diverse personalized TFG forgeries.
+
 <details>
   <summary>📌 Click for FULL Abstract</summary>
 
