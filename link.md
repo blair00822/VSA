@@ -1,0 +1,2 @@
+1. Please follow the instructions provided in the official code repository: \url{https://github.com/facebookresearch/av_hubert} to conduct AV-HuBERT.
+2. The pre-trained checkpoint used for experiments is: AV-HuBERT Large + Self-Training on LRS3 for 433h.
